@@ -1,0 +1,13 @@
+{
+    "view": [
+        {
+            "page": {
+                "name": "index",
+                "path": "/home/loup/nodejs/LSAN/public/index",
+                "urls": [
+                    "/"
+                ]
+            }
+        }
+    ]
+}
